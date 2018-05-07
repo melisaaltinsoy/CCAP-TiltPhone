@@ -1,5 +1,5 @@
 
-
+//Melisa
 // Here we create a very simple instrument. Select the lines and press ctrl+enter
 (
 SynthDef("simpleSin", {
